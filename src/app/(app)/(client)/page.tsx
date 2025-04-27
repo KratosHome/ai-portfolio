@@ -1,7 +1,6 @@
 import Hero from '@/components/main/hero'
 import StatsSection from '@/components/main/stats-section'
 import type { Metadata } from 'next'
-import Header from '@/components/main/header'
 
 export const metadata: Metadata = {
   title: 'Create Next App',
